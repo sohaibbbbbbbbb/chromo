@@ -17,7 +17,7 @@ export async function POST(req: Request) {
 
   const anthropic = createAnthropic({
     apiKey:
-      "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",
+      "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",
     // "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",
 
     // apiKey: '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'
